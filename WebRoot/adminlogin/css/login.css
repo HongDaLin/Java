@@ -1,0 +1,12 @@
+/* CSS Document */
+*{ margin:0; padding:0;}
+body{ text-align:center; background:url(../images/login_bg.gif) repeat-x #BFD5E9;font: 12px "sans-serif", "Arial", "Verdana";}
+#wrapper{ background:url(../images/login_form.gif) no-repeat; width:464px; height:324px; margin-top:172px;}
+form { width:252px;float:right; margin-top:90px; margin-right:10px;}
+form p{ clear:both;line-height:30px; height:30px;}
+form p label{ width:90px; float:left; display:block; text-align:right;}
+form p input{ width:120px; float:left;}
+form p input.checkno{ width:80px;}
+form p.bt{ text-align:right; padding-right:30px;}
+form p.bt input{ float:none; background:url(../images/login_bt.gif); width:86px; height:32px; line-height:32px; border:none;}
+form p img{ float:left;}
